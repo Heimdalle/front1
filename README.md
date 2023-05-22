@@ -1,2 +1,2 @@
-# front1
-Front 1
+# QR code project
+Frontend Mentor challenge
